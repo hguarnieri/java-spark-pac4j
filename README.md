@@ -4,4 +4,7 @@ Funciona com autenticação de formulário, mas pode ser implementado com divers
 
 Só baixar, usar e criar as endpoints.
 
+Pac4J: https://github.com/pac4j/spark-pac4j
+Spark Java: http://sparkjava.com/
+
 henrique.guarnieri@gmail.com
